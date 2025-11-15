@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7a6465cba0649809bdc6b7adefaf77d, type: 3}
+  m_Name: EpisodeCatalog
+  m_EditorClassIdentifier: 
+  episodes:
+  - {fileID: 11400000, guid: 5a2f0aa6afba4b5ba0f4ce708dbfede2, type: 2}
+  - {fileID: 11400000, guid: 54c2e8128aec4b63b1e3420cee9fea56, type: 2}
+  - {fileID: 11400000, guid: e44d933dfac5466ea952bf9fe3f5a6af, type: 2}
+  - {fileID: 11400000, guid: f964b5d8a6dd4f9e9ddf06ccd17fe7f9, type: 2}
+  - {fileID: 11400000, guid: 41cd54f879664e77b95828b741b93d7c, type: 2}
+  - {fileID: 11400000, guid: 0fd8e96631da427683c9bb4a3ec0481a, type: 2}
+  - {fileID: 11400000, guid: 60294535cfab4b0ebfc79042f2eacfea, type: 2}
+  - {fileID: 11400000, guid: 70d2257deb40424fb9fea95be6a27c2d, type: 2}
+  - {fileID: 11400000, guid: 64c2156ce8a7400e8dae68d8dfa5af1b, type: 2}
+  - {fileID: 11400000, guid: d0e204ef2c594e2fad4f4f5fa1313d4a, type: 2}

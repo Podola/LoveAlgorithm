@@ -1,0 +1,60 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+
+# Unity logs and crash dumps
+Logs/
+*.log
+*.crash
+
+# Unity editor settings
+UserSettings/
+EditorUserSettings.asset
+*.user
+
+# Visual Studio / Rider
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.log
+*.svclog
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unity packages
+Packages/packages-lock.json.meta
+
+# Asset bundles
+*.unitypackage
+
+# Addressables
+Assets/AddressableAssetsData/AssetGroups/
+
+# TextMesh Pro
+Assets/TextMesh Pro/
+
+# Feel (if not needed in version control)
+# Assets/Feel/
+
+# Dialogue System (if using asset store version)
+# Assets/Dialogue System/
+
+# Custom ignore for this project
+Step2TestReport.txt
+대화.txt

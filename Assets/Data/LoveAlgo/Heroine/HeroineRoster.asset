@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c119163320e9ad45890d5464d36b3be, type: 3}
+  m_Name: HeroineRoster
+  m_EditorClassIdentifier: Assembly-CSharp::LoveAlgo.Data.HeroineRoster
+  heroines:
+  - {fileID: 11400000, guid: f5e6a7b8c9d0e1f2a3b4c5d6e7f8a9b0, type: 2}
+  - {fileID: 11400000, guid: f2e3a4b5c6d7e8f9a0b1c2d3e4f5a6b7, type: 2}
+  - {fileID: 11400000, guid: c76c6ace5d0b0b045aae1f3c9a8621fe, type: 2}
+  - {fileID: 11400000, guid: f4e5a6b7c8d9e0f1a2b3c4d5e6f7a8b9, type: 2}
+  - {fileID: 11400000, guid: f3e4a5b6c7d8e9f0a1b2c3d4e5f6a7b8, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d48639f0ed59ab54493f3a9f776eb697, type: 3}
+  m_Name: LoveAlgoConfiguration
+  m_EditorClassIdentifier: Assembly-CSharp::LoveAlgo.Data.LoveAlgoConfiguration
+  heroineRoster: {fileID: 11400000, guid: b17bdd37dbb00ba478312acb765df6da, type: 2}
+  freeActionCatalog: {fileID: 11400000, guid: f1e2a3b4c5d6e7f8a9b0c1d2e3f4a5b6, type: 2}
+  giftTierCatalog: {fileID: 11400000, guid: aea8ac2d7b3899e479af2716b50818cd, type: 2}
+  episodeCatalog: {fileID: 11400000, guid: b47f6db1fdc5488482f1a0a9d90c3dbc, type: 2}
+  schedule: {fileID: 11400000, guid: b72bcff1bb7b4094fb682f64cd5793be, type: 2}
+  maxFreeActionsPerDay: 2
+  maxFatigue: 100
+  minFatigue: 0

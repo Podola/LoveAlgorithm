@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 749122ca687073649af3faaf57ce2dd5, type: 3}
+  m_Name: Text Table
+  m_EditorClassIdentifier: 
+  m_languageKeys:
+  - Default
+  m_languageValues: 00000000
+  m_fieldKeys: 090000001300000018000000140000000f00000012000000030000000600000011000000010000000c000000080000000d00000010000000050000000e0000000a000000070000001700000015000000040000000b0000000200000016000000190000001a0000001b000000220000001c0000001d0000001e0000001f0000002000000021000000
+  m_fieldValues:
+  - m_fieldName: Achievements
+    m_keys: 00000000
+    m_values:
+    - Achievements
+  - m_fieldName: ACHIEVEMENTS
+    m_keys: 00000000
+    m_values:
+    - ACHIEVEMENTS
+  - m_fieldName: Are you sure you want to quit the program?
+    m_keys: 00000000
+    m_values:
+    - Are you sure you want to quit the program?
+  - m_fieldName: Are you sure you want to quit to the main menu?
+    m_keys: 00000000
+    m_values:
+    - Are you sure you want to quit to the main menu?
+  - m_fieldName: Back
+    m_keys: 00000000
+    m_values:
+    - Back
+  - m_fieldName: Character Speed
+    m_keys: 00000000
+    m_values:
+    - Character Speed
+  - m_fieldName: Continue
+    m_keys: 00000000
+    m_values:
+    - Continue
+  - m_fieldName: Credits
+    m_keys: 00000000
+    m_values:
+    - Credits
+  - m_fieldName: Effects Volume
+    m_keys: 00000000
+    m_values:
+    - Effects Volume
+  - m_fieldName: GAME TITLE
+    m_keys: 00000000
+    m_values:
+    - GAME TITLE
+  - m_fieldName: Load
+    m_keys: 00000000
+    m_values:
+    - Load
+  - m_fieldName: Load Game
+    m_keys: 00000000
+    m_values:
+    - Load Game
+  - m_fieldName: Menu
+    m_keys: 00000000
+    m_values:
+    - Menu
+  - m_fieldName: Music Volume
+    m_keys: 00000000
+    m_values:
+    - Music Volume
+  - m_fieldName: Options
+    m_keys: 00000000
+    m_values:
+    - Options
+  - m_fieldName: OPTIONS
+    m_keys: 00000000
+    m_values:
+    - OPTIONS
+  - m_fieldName: Quest Log
+    m_keys: 00000000
+    m_values:
+    - Quest Log
+  - m_fieldName: Quit
+    m_keys: 00000000
+    m_values:
+    - Quit
+  - m_fieldName: QUIT PROGRAM
+    m_keys: 00000000
+    m_values:
+    - QUIT PROGRAM
+  - m_fieldName: QUIT TO MAIN MENU
+    m_keys: 00000000
+    m_values:
+    - QUIT TO MAIN MENU
+  - m_fieldName: Restart
+    m_keys: 00000000
+    m_values:
+    - Restart
+  - m_fieldName: Save
+    m_keys: 00000000
+    m_values:
+    - Save
+  - m_fieldName: Start
+    m_keys: 00000000
+    m_values:
+    - Start
+  - m_fieldName: Yes
+    m_keys: 00000000
+    m_values:
+    - Yes
+  - m_fieldName: Slot
+    m_keys: 00000000
+    m_values:
+    - Slot
+  - m_fieldName: CONFIRM OVERWRITE
+    m_keys: 00000000
+    m_values:
+    - CONFIRM OVERWRITE
+  - m_fieldName: CONFIRM DELETION
+    m_keys: 00000000
+    m_values:
+    - CONFIRM DELETION
+  - m_fieldName: SAVE GAME
+    m_keys: 00000000
+    m_values:
+    - SAVE GAME
+  - m_fieldName: SAVING GAME
+    m_keys: 00000000
+    m_values:
+    - SAVING GAME
+  - m_fieldName: LOADING GAME
+    m_keys: 00000000
+    m_values:
+    - LOADING GAME
+  - m_fieldName: Please wait...
+    m_keys: 00000000
+    m_values:
+    - Please wait...
+  - m_fieldName: Game Details
+    m_keys: 00000000
+    m_values:
+    - Game Details
+  - m_fieldName: Delete
+    m_keys: 00000000
+    m_values:
+    - Delete
+  - m_fieldName: Are you sure you want to delete the game in this slot?
+    m_keys: 00000000
+    m_values:
+    - Are you sure you want to delete the game in this slot?
+  m_nextLanguageID: 1
+  m_nextFieldID: 35

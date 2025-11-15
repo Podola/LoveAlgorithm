@@ -1,0 +1,2 @@
+- The UI buttons use a short script to start and stop SMS conversations.
+- The SMS Dialogue UI's 'Use Conversation Variable' checkbox is ticked.

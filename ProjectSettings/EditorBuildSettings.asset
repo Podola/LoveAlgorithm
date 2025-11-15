@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoveAlgo/Boot.unity
+    guid: 2c1cb26c15db4c7f9e6219a83f4f0ad7
+  - enabled: 1
+    path: Assets/Scenes/LoveAlgo/Title.unity
+    guid: 4b1f04d7af2c4c92b7fb5adf85da7d7e
+  - enabled: 1
+    path: Assets/Scenes/LoveAlgo/Gameplay.unity
+    guid: 97caf5f6fa7b4704a2d3d77a71370c1a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
