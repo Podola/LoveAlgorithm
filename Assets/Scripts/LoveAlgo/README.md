@@ -61,6 +61,12 @@ UI/Scene
 - 추가 연출이 필요할 때는 `Sequencer` 칸에 `LoveAlgoStandingShake(Left, 0.3, 18)` 형태로 호출해 해당 슬롯을 단순 쉐이크 애니메이션 시킬 수 있습니다. 기간/세기는 생략 시 기본값이 사용됩니다.
 - 메뉴 `LoveAlgo/Create Dialogue Test Scene`을 실행하면 `TestDialogueScene`이 생성되며, LoveAlgo Context + Dialogue Manager + 커스텀 UI + 샘플 Conversation(배경/스탠딩/쉐이크 포함)이 자동으로 배치됩니다.
 
+### DialoguePanelFactory (Step3)
+- `Assets/Scripts/LoveAlgo/Editor/PrefabFactories/DialoguePanelFactory.cs`는 승인된 VN 레이아웃(배경/스탠딩/CG 슬롯/텍스트/선택지)을 한 번에 구축합니다.
+- Unity 메뉴 `LoveAlgo/Build Modules/Dialogue Panel` 실행 → `Assets/Prefabs/Simple/Modules/DialoguePanel.prefab` 자동 생성.
+- 생성된 프리팹은 `LoveAlgoDialogueView`, `LoveAlgoBackgroundPresenter`, `LoveAlgoStandingPresenter`, `LoveAlgoDialogueChoicePanel`을 모두 배선해 DSU Conversation 이벤트를 즉시 수신합니다.
+- CG 슬롯과 로그/스킵 버튼도 포함되므로, HUD/Gameplay 씬에서 그대로 인스턴스한 뒤 DSU `DialogueManager`와 Catalog 참조만 교체하면 됩니다.
+
 ## 테스트 체크리스트
 
 - `Tools/LoveAlgo/Build Test Scene` 메뉴로 자동 테스트 씬을 만든 뒤 Dialogue UI 프리팹에 `LoveAlgoDialogueView`, `LoveAlgoBackgroundPresenter`, `LoveAlgoStandingPresenter`를 연결하세요.

@@ -1,0 +1,32 @@
+Full dialog message :
+
+[INFO] Step2 HUD 테스트를 시작합니다.
+[INFO] HUD 및 모듈 프리팹을 재생성했습니다.
+[INFO] HUD 프리팹 인스턴스화 성공.
+[INFO] NavigationController 연결 확인.
+[INFO] Shop 모듈 활성화: ShopPanelController
+[INFO] 보유 금액 라벨 연결 확인.
+[INFO] 합계 금액 라벨 연결 확인.
+[INFO] 구매 버튼 연결 확인.
+[INFO] 돌아가기 버튼 연결 확인.
+[INFO] 가챠 버튼 연결 확인.
+[INFO] 상품 그리드 연결 확인.
+[INFO] 상품 카드 프로토타입 연결 확인.
+[INFO] 장바구니 리스트 연결 확인.
+[INFO] 장바구니 항목 프로토타입 연결 확인.
+[INFO] 툴팁 패널 연결 확인.
+[INFO] Mock 인벤토리 4개 확인.
+[INFO] 툴팁 루트 연결 확인.
+[INFO] 툴팁 제목 연결 확인.
+[INFO] 툴팁 본문 연결 확인.
+[INFO] 장바구니 이름 라벨 연결 확인.
+[INFO] 장바구니 가격 라벨 연결 확인.
+[INFO] 장바구니 수량 라벨 연결 확인.
+[INFO] 수량 증가 버튼 연결 확인.
+[INFO] 수량 감소 버튼 연결 확인.
+[INFO] 삭제 버튼 연결 확인.
+[INFO] 상품 선택 버튼 연결 확인.
+[INFO] 상품 이름 라벨 연결 확인.
+[INFO] 상품 가격 라벨 연결 확인.
+[INFO] 선택 표시자 연결 확인.
+[INFO] 임시 씬을 정리했습니다.
